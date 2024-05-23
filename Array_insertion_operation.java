@@ -1,5 +1,5 @@
 // Insertion array operation.
-public class array_insertion_operation_ds {
+public class Array_insertion_operation {
     public static void main(String []args){
 
         // initialize employees' age data in an array of type int.
