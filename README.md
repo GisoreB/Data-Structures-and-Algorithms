@@ -10,3 +10,10 @@ Almost every enterprise application uses various types of data structures in one
 
 ### **Screenshots**
 
+![Screenshot 2024-05-23 134011](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/0184338f-4b58-46ec-a535-9a8b0753feac)
+![Screenshot 2024-05-23 131302](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/7a092df6-f97f-42c2-ab0d-839e98565d4d)
+![Screenshot 2024-05-23 130722](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/007a0823-fd40-4a09-b450-ea1359d39533)
+![Screenshot 2024-05-23 125807](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/3289b910-76bf-4614-af70-56b59f028f86)
+![Screenshot 2024-05-23 130212](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/a5c45da9-18dd-4b7d-89d9-dbf54ff1a0d2)
+![Screenshot 2024-05-23 125727](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/0495ef98-05b7-4226-9bc2-2bbaf7071e74)
+![Screenshot 2024-05-23 125716](https://github.com/GisoreB/Data-Structures-and-Algorithms/assets/144854877/7f48851e-dda6-4eef-8681-e9c4202fcb6f)
